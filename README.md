@@ -20,9 +20,9 @@
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mrinal--mondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mrinal--mondal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pabitra-das-58a5b428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pabitra-das-58a5b428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mrinalmondal6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mrinalmondal6969" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mrinal.mondal.37604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mrinal.mondal.37604" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pabitradashridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pabitradashridoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
